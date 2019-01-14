@@ -32,13 +32,14 @@ pip3 install numpy matplotlib scipy pandas
 Ouvrez un terminal
 
 ### Rappel des commandes utiles sur terminal 
-**
+
 - pwd : ou je suis (dans quel dossier je suis) 
 - cd *MonRepo* : changer de dossier (direcrtory)
 - ls : lister les objets présents (fichier et dossier) dans le répertoire sélectionné
 - mkdir *NewRepo* : créer un nouveau dossier de nom *NewRepo*  
+- rm *UnFichier* : supprimer un fichier (attention avec cette commande!) 
 - man *UneCommande* : afficher le manuel de la commande sélectionnée
-**
+
 
 ### Créer son dossier de travail 
 
@@ -46,22 +47,22 @@ Ouvrez un terminal
 
 1 - Créer un dossier (si non existant) *workspace* 
 
-2 - Créer dans le dossier *workspace* un dossier *Ateliers* 
+2 - Créer dans le dossier *workspace* un dossier *Cours* 
 
 ### Importer le repository de GitHub 
 
-0 - Aller sur la page <https://github.com/TheHackademy/DataGramxAirBnB>
+0 - Aller sur la page <https://github.com/bdallard/PooMsi/>
 
 1 - Appuyer sur le boutton vert *clone and download* (pour copier le lien du repo) 
 
-2 - Cloner le repository (dans votre dossier Ateliers) avec la commande suivante : 
+2 - Cloner le repository (dans votre dossier Cours) avec la commande suivante : 
 ```
-git clone https://github.com/TheHackademy/DataGramxAirBnB.git
+git clone https://github.com/bdallard/PooMsi.git
 ```
 
 ### Lancer Jupyter
 
-Pour lancer jupyter, assurez vous de bien être positioné dans votre repo de travail (*Atelier1*) et lancer la commande suivante :  
+Pour lancer jupyter, assurez vous de bien être positioné dans votre repo de travail (*Cours*) et lancer la commande suivante :  
 
 ```
 jupyter notebook 
