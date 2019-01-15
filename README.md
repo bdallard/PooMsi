@@ -2,7 +2,7 @@
 
 ## Prérequis 
 Ce document contient une liste de prérequis en terme de programmes informatiques ainsi que de petites références pour mieux appréhender les différents cours.
-**Et bien sur les diapos de cours (venir en cours c'est mieux)** 
+**Et bien sur les diapos de cours (venir en cours c'est mieux quand même)** 
 
 ### Installer Python 3.x (3.4, 3.5 ou 3.6) et pip (pip3)
 **Pour Windows** : <https://www.python.org/downloads/windows/>
@@ -16,7 +16,7 @@ brew install python3-pip
 ```
 
 ### Installer Jupyter 
-Jupyter est une application web permettant de créer des notebooks, des fichiers mélangeant à la fois du texte (markdown), des images, des équations mathématiques et du code.
+Jupyter est une application web permettant de créer des notebooks, des fichiers mélangeant à la fois du texte (en syntaxe markdown), des images, des équations mathématiques et bien sur du code.
 
 Lancer la commande suivante : 
 ```
