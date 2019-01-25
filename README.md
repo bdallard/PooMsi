@@ -68,3 +68,12 @@ Pour lancer jupyter, assurez vous de bien être positioné dans votre repo de tr
 ```
 jupyter notebook 
 ```
+
+## mini git no deep shit 
+
+Pour ceux qui n'arrivent pas à pull 
+```
+git stash
+git pull
+git stash pop
+```
