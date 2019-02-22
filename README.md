@@ -15,6 +15,11 @@ brew install python3
 brew install python3-pip
 ```
 
+<a href ="https://brew.sh/index_fr"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Homebrew_logo.png">
+### Installer Homebrew sur votre Mac 
+Si les commandes ci-dessus ne fonctionnent pas c'est que vous n'avez pas Homebrew ! 
+Cliquer sur le logo ci-dessus et suivre le tutoriel d'installation. 
+
 ### Installer Jupyter 
 Jupyter est une application web permettant de créer des notebooks, des fichiers mélangeant à la fois du texte (en syntaxe markdown), des images, des équations mathématiques et bien sur du code.
 
