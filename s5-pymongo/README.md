@@ -36,6 +36,6 @@ Normalement si tout ce passe bien, brew vous renvoie :
 
 
 ### Objectif de la séance 
-Cette séance à pour objectif de vous montrer le fonctionnement de base de PyMongo ainsi que de couvrir **les opérations CRUD (create, read, update, delete)**. 
+Cette séance à pour objectif de vous montrer le fonctionnement de base de PyMongo ainsi que de couvrir **les opérations CRUD (create, read, update, delete)**. Nous passerons ensuite à la gestions d'une base de donnée orienté document avec [l'api swapi](https://swapi.co)
 La technologie PyMongo étant assez récente, je vous conseil de jeter un oeil à [la documentation officielle](https://api.mongodb.com/python/current/). 
 
