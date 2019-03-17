@@ -2,7 +2,7 @@
 
 Petit rappel générique de ce qu'est `scikit-learn`. 
 
-- Cette librairie manipule des objets de classe `array` de `numpy` *chargés en mémoire* et donc de taille limitée par la RAM de l'ordinateur; de façon analogue R charge en RAM des objets de type `data.frame`.
+- Cette librairie manipule des objets de classe `array` de `numpy` *chargés en mémoire* et donc de taille limitée par la RAM de l'ordinateur. 
 - `Scikit-learn` reconnaît quelque fois la classe `DataFrame` de `pandas`. Une variable binaire est simplement remplacée par un codage *(0,1)* mais, en présence de plusieurs modalités, traiter celles-ci comme des entiers n'a pas de sens statistique et remplacer une variable qualitative par l'ensemble des indicatrices (*dummy variables (0,1)*) de ses modalités  complique les stratégies de sélection de modèle tout en rendant inexploitable l'interprétation statistique. 
 - Les implémentations en Python de certains algorithmes dans `scikit-learn` sont souvent rapide et utilisent implicitement les capacités de parallélisation.
 
